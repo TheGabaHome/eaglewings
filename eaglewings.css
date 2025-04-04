@@ -36,10 +36,10 @@ header {
 .logo::before {
   content: '';
   display: inline-block;
-  background-image: url('https://i.esdrop.com/d/f/PU38twfMvl/Rjf1DQsjwp.png');
-  background-size: 150px 150px;
-  width: 150px;
-  height: 150px;
+  background-image: url('https://i.esdrop.com/d/f/PU38twfMvl/gVexpOQqyZ.png');
+  background-size: 100px 100px;
+  width: 100px;
+  height: 100px;
   vertical-align: middle;
 }
 .logo a {
