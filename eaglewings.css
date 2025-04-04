@@ -36,7 +36,7 @@ header {
 .logo::before {
   content: '';
   display: inline-block;
-  background-image: url('https://i.esdrop.com/d/f/PU38twfMvl/Rjf1DQsjwp.png/v1/fill/w_600,h_600,al_c,q_85,usm_0.66_1.00_0.01/131231.webp');
+  background-image: url('https://i.esdrop.com/d/f/PU38twfMvl/Rjf1DQsjwp.png');
   background-size: 150px 150px;
   width: 150px;
   height: 150px;
